@@ -1,0 +1,7 @@
+F:\C#\DownloadUTiCS\DownloadUTiCS\bin\Debug\DownloadUTiCS.exe.config
+F:\C#\DownloadUTiCS\DownloadUTiCS\bin\Debug\DownloadUTiCS.exe
+F:\C#\DownloadUTiCS\DownloadUTiCS\bin\Debug\DownloadUTiCS.pdb
+F:\C#\DownloadUTiCS\DownloadUTiCS\obj\Debug\DownloadUTiCS.csprojAssemblyReference.cache
+F:\C#\DownloadUTiCS\DownloadUTiCS\obj\Debug\DownloadUTiCS.csproj.CoreCompileInputs.cache
+F:\C#\DownloadUTiCS\DownloadUTiCS\obj\Debug\DownloadUTiCS.exe
+F:\C#\DownloadUTiCS\DownloadUTiCS\obj\Debug\DownloadUTiCS.pdb
