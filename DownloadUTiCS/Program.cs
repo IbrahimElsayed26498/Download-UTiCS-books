@@ -18,7 +18,7 @@ namespace DownloadUTiCS
                 Console.Write("Excel file path:");
                 execlFilePath = Console.ReadLine();
                 //execlFilePath = "C:\\Users\\MBR\\Desktop\\UTiCS\\SearchResults.csv";
-                Console.Write("Download folder path:");
+                Console.Write("Download's folder path:");
                 downloadsPath = Console.ReadLine();
 
                 excel = new Excel(execlFilePath, 1);
