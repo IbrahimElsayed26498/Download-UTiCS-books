@@ -53,19 +53,18 @@ namespace DownloadUTiCS
 
                 //Console.WriteLine("Check downloads");
                 //ComparerFilesAndNames();
-                Console.Write("Type 'Enter' to close.");
-                Console.ReadLine();
+                
             }
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
-                throw;
             }
             finally
             {
                 excel?.Close();
             }
-
+            Console.Write("Type 'Enter' to close.");
+            Console.ReadLine();
         }
 
         public static void PrepareDownloadURLs()
