@@ -5,7 +5,7 @@ https://link.springer.com/bookseries/7592<br>
 This application is to down this series instead of download each book individual.
 <img src="imgs/img0.png">
 <img src="imgs/img1.png">
-### I've used the 'SearchResults.csv' downloaded from the search result (as shown in the last figure) to download the series.
+### I've used the 'SearchResults.csv' downloaded from the search result (as shown in the previous figure) to download the series.
 
 # To download the exe program click <a href="https://raw.githubusercontent.com/IbrahimElsayed26498/Download-UTiCS-books/main/DownloadUTiCS/bin/Debug/DownloadUTiCS.exe" target="_blank">here</a><br>
 
